@@ -1,12 +1,5 @@
-namespace LicenseData
-{
-    public static class Keys
-    {
-        public static readonly string[] All =
-        {
-            "ABCDE-12345",
-            "FGHIJ-67890",
-            "KLMNO-24680"
-        };
-    }
-}
+ABC123-DEF456-GHI789
+JKL111-MNO222-PQR333
+XYZ999-AAA888-BBB777
+
+
